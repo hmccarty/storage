@@ -4,12 +4,13 @@ Heavily based on the [datacurator-filetree](https://github.com/roboyoshi/datacur
 
 ## Structure
 - `apps/`: Full fledged applications or packaged software.
+- `archive/`: Reserve of files that no longer require consistent access.
 - `docs/`: General documents, usually PDFs.
 - `pics/`: Any picture-based content.
 - `repos/`: Git-based repositories.
 - `vids/`: Any video-based content.
 
-Files are nested by date:
+`archive/` is nested by date:
 
 `<folder>/<year>/<month>/<day>/<file>`
 
