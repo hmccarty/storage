@@ -8,9 +8,10 @@ Heavily based on the [datacurator-filetree](https://github.com/roboyoshi/datacur
 - `docs/`: General documents, usually PDFs.
 - `pics/`: Any picture-based content.
 - `repos/`: Git-based repositories.
+- `sounds/`: Any audio-based content.
 - `vids/`: Any video-based content.
 
-`archive/` is nested by date:
+Most folders are nested by date:
 
 `<folder>/<year>/<month>/<day>/<file>`
 
