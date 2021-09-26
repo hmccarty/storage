@@ -8,7 +8,7 @@ Heavily based on the [datacurator-filetree](https://github.com/roboyoshi/datacur
 - `docs/`: General documents, usually PDFs.
 - `pics/`: Any picture-based content.
 - `repos/`: Git-based repositories.
-- `projects/`: Collections of files related to specific pursuits.
+- `projects/`: Collections of files related to specific and ongoing pursuits.
 - `sounds/`: Any audio-based content.
 - `vids/`: Any video-based content.
 
