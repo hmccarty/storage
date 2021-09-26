@@ -4,7 +4,7 @@ Heavily based on the [datacurator-filetree](https://github.com/roboyoshi/datacur
 
 ## Structure
 - `apps/`: Full fledged applications or packaged software.
-- `archive/`: Backups and miscellaneous files.
+- `archive/`: Backups and miscellaneous files, usually compressed content.
 - `docs/`: General documents, usually PDFs.
 - `pics/`: Any picture-based content.
 - `repos/`: Git-based repositories.
